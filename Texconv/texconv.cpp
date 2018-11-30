@@ -35,7 +35,7 @@
 
 #include <wincodec.h>
 
-#include "directxtex.h"
+#include "../DirectXTex/directxtex.h"
 
 #include "DirectXPackedVector.h"
 
