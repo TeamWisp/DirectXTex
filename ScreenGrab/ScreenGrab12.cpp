@@ -31,7 +31,7 @@
 
 #include <wrl\client.h>
 
-#include "d3dx12.h"
+#include "../DirectXTex/d3dx12.h"
 
 using Microsoft::WRL::ComPtr;
 

@@ -20,7 +20,7 @@
 
 #include <directxmath.h>
 
-#include "DirectXTex.h"
+#include "../DirectXTex/DirectXTex.h"
 
 using namespace DirectX;
 
